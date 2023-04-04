@@ -1,4 +1,4 @@
-# Pressure Sensor (using Force Sensitive Resistor) + Adafruit's NeoPixel 8 stick
+# Pressure Sensor + Adafruit's NeoPixel 8 stick
 
 https://user-images.githubusercontent.com/63166855/225740451-858a278b-39f3-43af-a11c-02eaae08c486.mp4
 
@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/63166855/225740451-858a278b-39f3-43af-
 Aquire components OR Make it on [TinkerCAD](https://www.tinkercad.com/circuits)!:
 - [Arduino UNO](https://www.digikey.com/en/products/detail/arduino/A000066/2784006)
 - [Adafruit 8-stick Neopixel](https://www.adafruit.com/product/1426)
-- [Force Sensitive Resistor](https://www.adafruit.com/product/166)
+- [Force Sensitive Resistor (pressure sensor)](https://www.adafruit.com/product/166)
 - 10K resistor
 
 ## Wiring Diagram
